@@ -1,0 +1,3 @@
+C:/Users/yourm/CIT-66 Projects/ZooKeeperChallenge/cmake-build-debug/CMakeFiles/ZooKeeperChallenge.dir
+C:/Users/yourm/CIT-66 Projects/ZooKeeperChallenge/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yourm/CIT-66 Projects/ZooKeeperChallenge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
